@@ -1,3 +1,9 @@
 .strike-through {
   text-decoration: line-through;
 }
+
+.todos li {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 20px;
+}
