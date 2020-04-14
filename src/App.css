@@ -1,3 +1,9 @@
+button:focus,
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
 body {
   background-color: #f4736a;
 }
@@ -19,6 +25,7 @@ body {
   margin-bottom: 10px;
   padding: 10px;
   font-size: 14px;
+  outline: none;
 }
 
 .todos-form button {
